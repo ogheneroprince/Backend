@@ -1,0 +1,2 @@
+this is a sample of file
+this the second line
